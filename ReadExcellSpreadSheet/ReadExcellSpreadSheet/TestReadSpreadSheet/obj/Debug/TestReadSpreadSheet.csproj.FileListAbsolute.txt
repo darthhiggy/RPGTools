@@ -1,0 +1,10 @@
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\bin\Debug\TestReadSpreadSheet.exe.config
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\bin\Debug\TestReadSpreadSheet.exe
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\bin\Debug\TestReadSpreadSheet.pdb
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\bin\Debug\ReadExcellSpreadSheet.dll
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\bin\Debug\ReadExcellSpreadSheet.pdb
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\obj\Debug\TestReadSpreadSheet.csprojResolveAssemblyReference.cache
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\obj\Debug\TestReadSpreadSheet.csproj.CoreCompileInputs.cache
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\obj\Debug\TestReadSpreadSheet.exe
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\obj\Debug\TestReadSpreadSheet.pdb
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\TestReadSpreadSheet\bin\Debug\SpreadSheets\SWRPG Ultimate GM Database v3.xlsx

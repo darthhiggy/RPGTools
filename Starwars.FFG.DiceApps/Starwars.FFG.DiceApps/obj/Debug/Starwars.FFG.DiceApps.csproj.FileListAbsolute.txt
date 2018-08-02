@@ -1,0 +1,2 @@
+C:\Users\darthhiggy\OneDrive\Documents\repos\RPGTools\Starwars.FFG.DiceApps\Starwars.FFG.DiceApps\bin\Debug\Starwars.FFG.DiceApps.exe.config
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\Starwars.FFG.DiceApps\Starwars.FFG.DiceApps\bin\Debug\Starwars.FFG.DiceApps.exe.config

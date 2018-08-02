@@ -1,0 +1,7 @@
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\ReadExcellSpreadSheet\bin\Debug\ReadExcellSpreadSheet.dll
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\ReadExcellSpreadSheet\bin\Debug\ReadExcellSpreadSheet.pdb
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\ReadExcellSpreadSheet\obj\Debug\ReadExcellSpreadSheet.csprojResolveAssemblyReference.cache
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\ReadExcellSpreadSheet\obj\Debug\ReadExcellSpreadSheet.csproj.ResolveComReference.cache
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\ReadExcellSpreadSheet\obj\Debug\ReadExcellSpreadSheet.csproj.CoreCompileInputs.cache
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\ReadExcellSpreadSheet\obj\Debug\ReadExcellSpreadSheet.dll
+C:\Workspaces\RPGTools\ReadExcellSpreadSheet\ReadExcellSpreadSheet\ReadExcellSpreadSheet\obj\Debug\ReadExcellSpreadSheet.pdb

@@ -1,0 +1,15 @@
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe.config
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.pdb
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csprojResolveAssemblyReference.cache
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\App.g.cs
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator_MarkupCompile.cache
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator_MarkupCompile.lref
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\MainWindow.baml
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.g.resources
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.Properties.Resources.resources
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csproj.GenerateResource.Cache
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.exe
+C:\Users\m_hig\OneDrive\Documents\repos\RPGTools\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.pdb
