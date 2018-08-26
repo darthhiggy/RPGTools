@@ -40,16 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abilities.cs" />
+    <Compile Include="Abilities\AbilityTypes.cs" />
+    <Compile Include="Abilities\Ability.cs" />
+    <Compile Include="Abilities\AbilitySet.cs" />
+    <Compile Include="Abilities\IAbility.cs" />
     <Compile Include="Character.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Skills\Astrogation.cs" />
-    <Compile Include="Skills\Athletics.cs" />
-    <Compile Include="Skills\Brawl.cs" />
-    <Compile Include="Skills\Charm.cs" />
-    <Compile Include="Skills\Coercion.cs" />
-    <Compile Include="Skills\Computers.cs" />
     <Compile Include="Skills\ISkill.cs" />
+    <Compile Include="Skills\Skill.cs" />
+    <Compile Include="Skills\SkillsSet.cs" />
     <Compile Include="Skills\SkillType.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

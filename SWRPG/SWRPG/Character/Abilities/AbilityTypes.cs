@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Character
+namespace Character.Abilities
 {
-    public enum Abilities
+    public enum AbilityTypes
     {
         Brawn = 1,
         Agility = 2,

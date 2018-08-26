@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Character.Abilities;
 
 namespace Character.Skills
 {
@@ -10,10 +11,12 @@ namespace Character.Skills
     {
         SkillType Type { get; set; }
 
-        Abilities Ability { get; set; }
+        AbilityTypes Ability { get; set; }
 
         bool ClassSkill { get; set; }
 
         int Ranks { get; set; }
+
+        string Description { get; set; }
     }
 }
