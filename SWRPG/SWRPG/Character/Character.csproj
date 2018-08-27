@@ -50,6 +50,13 @@
     <Compile Include="Skills\Skill.cs" />
     <Compile Include="Skills\SkillsSet.cs" />
     <Compile Include="Skills\SkillType.cs" />
+    <Compile Include="Talents\Activations.cs" />
+    <Compile Include="Talents\Career.cs" />
+    <Compile Include="Talents\ICareer.cs" />
+    <Compile Include="Talents\ISkillTree.cs" />
+    <Compile Include="Talents\ITalent.cs" />
+    <Compile Include="Talents\SkillTree.cs" />
+    <Compile Include="Talents\Talent.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
