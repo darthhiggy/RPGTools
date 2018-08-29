@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemsAndEquipment", "ItemsA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character", "Character\Character.csproj", "{8EECC159-160F-448E-9CF7-8F7F542FFF89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Species", "Species\Species.csproj", "{8D6E5F3F-AF64-4624-A718-702070A24C4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8EECC159-160F-448E-9CF7-8F7F542FFF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EECC159-160F-448E-9CF7-8F7F542FFF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EECC159-160F-448E-9CF7-8F7F542FFF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6E5F3F-AF64-4624-A718-702070A24C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6E5F3F-AF64-4624-A718-702070A24C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6E5F3F-AF64-4624-A718-702070A24C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6E5F3F-AF64-4624-A718-702070A24C4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

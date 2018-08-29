@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Character.Abilities
 {
-    class AbilitySet
+    public class AbilitySet
     {
         List<Ability> AbilityList { get; set; }
 
