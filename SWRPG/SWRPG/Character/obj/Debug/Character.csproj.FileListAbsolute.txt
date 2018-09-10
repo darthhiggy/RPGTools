@@ -1,0 +1,2 @@
+C:\Workspaces\RPGTools\SWRPG\SWRPG\Character\obj\Debug\Character.csprojResolveAssemblyReference.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\Character\obj\Debug\Character.csproj.CoreCompileInputs.cache

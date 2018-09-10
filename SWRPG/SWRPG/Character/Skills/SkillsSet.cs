@@ -22,7 +22,7 @@ namespace Character.Skills
 
         public void AddSkillPoints(string skillName, int ranks)
         {
-            var item = SkillSet.FirstOrDefault(s => s.SkillName.Equals(skillName));
+            var item = SkillSet.FirstOrDefault(s => s.Type.Equals(skillName));
             item.Ranks += ranks;
         }
 

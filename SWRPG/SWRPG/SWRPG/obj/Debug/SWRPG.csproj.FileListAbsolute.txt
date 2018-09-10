@@ -1,0 +1,6 @@
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPG\bin\Debug\SWRPG.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPG\bin\Debug\SWRPG.pdb
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPG\obj\Debug\SWRPG.csprojResolveAssemblyReference.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPG\obj\Debug\SWRPG.csproj.CoreCompileInputs.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPG\obj\Debug\SWRPG.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPG\obj\Debug\SWRPG.pdb

@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character", "Character\Char
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Species", "Species\Species.csproj", "{8D6E5F3F-AF64-4624-A718-702070A24C4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "Dice\Dice.csproj", "{8D1AA1A7-A95C-4DF6-91A0-CBF5A3B5792B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{536FF7D7-C1D5-418A-A2B1-3E443B5E3DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceTest", "DiceTest\DiceTest.csproj", "{F1A291FF-F4EB-4EC3-8F60-4DF1B6081589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,9 +39,20 @@ Global
 		{8D6E5F3F-AF64-4624-A718-702070A24C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D6E5F3F-AF64-4624-A718-702070A24C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D6E5F3F-AF64-4624-A718-702070A24C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1AA1A7-A95C-4DF6-91A0-CBF5A3B5792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1AA1A7-A95C-4DF6-91A0-CBF5A3B5792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1AA1A7-A95C-4DF6-91A0-CBF5A3B5792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1AA1A7-A95C-4DF6-91A0-CBF5A3B5792B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A291FF-F4EB-4EC3-8F60-4DF1B6081589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A291FF-F4EB-4EC3-8F60-4DF1B6081589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A291FF-F4EB-4EC3-8F60-4DF1B6081589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A291FF-F4EB-4EC3-8F60-4DF1B6081589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1A291FF-F4EB-4EC3-8F60-4DF1B6081589} = {536FF7D7-C1D5-418A-A2B1-3E443B5E3DA3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3043F5FD-9718-4C57-AC58-D3C6C8983545}

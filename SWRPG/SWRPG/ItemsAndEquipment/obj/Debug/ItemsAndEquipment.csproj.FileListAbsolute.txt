@@ -1,0 +1,6 @@
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\bin\Debug\ItemsAndEquipment.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\bin\Debug\ItemsAndEquipment.pdb
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\ItemsAndEquipment.csprojResolveAssemblyReference.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\ItemsAndEquipment.csproj.CoreCompileInputs.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\ItemsAndEquipment.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\ItemsAndEquipment.pdb

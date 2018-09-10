@@ -1,0 +1,1 @@
+C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\obj\Debug\Species.csproj.CoreCompileInputs.cache
