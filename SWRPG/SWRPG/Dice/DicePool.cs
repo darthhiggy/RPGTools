@@ -12,7 +12,7 @@ namespace Dice
 
         public DicePool()
         {
-
+            Pool = new List<Die>();
         }
 
         public void AddDie(DiceType type) => Pool.Add(new Die(type));

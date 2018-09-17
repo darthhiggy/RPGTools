@@ -28,11 +28,11 @@ namespace DiceTest
 
             foreach(var res in result.Keys)
             {
-                Console.WriteLine(result[res]);
+                Console.WriteLine($"{res} : {result[res]}");
             }
 
             // Assert
-            Assert.AreEqual(7, result.Count);
+            Assert.AreEqual(8, result.Count);
         }
     }
 }
