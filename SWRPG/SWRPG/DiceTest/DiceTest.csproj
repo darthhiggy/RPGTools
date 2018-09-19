@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="DicePoolTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DieTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
