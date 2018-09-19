@@ -1,6 +1,5 @@
 C:\Workspaces\RPGTools\SWRPG\SWRPG\Dice\bin\Debug\Dice.dll
 C:\Workspaces\RPGTools\SWRPG\SWRPG\Dice\bin\Debug\Dice.pdb
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
 C:\Workspaces\RPGTools\SWRPG\SWRPG\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
 C:\Workspaces\RPGTools\SWRPG\SWRPG\Dice\obj\Debug\Dice.dll
 C:\Workspaces\RPGTools\SWRPG\SWRPG\Dice\obj\Debug\Dice.pdb

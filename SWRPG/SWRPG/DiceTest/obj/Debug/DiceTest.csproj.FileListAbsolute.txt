@@ -9,7 +9,8 @@ C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\bin\Debug\Microsoft.VisualStudio.Tes
 C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\bin\Debug\Dice.pdb
 C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\obj\Debug\DiceTest.csprojResolveAssemblyReference.cache
 C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\obj\Debug\DiceTest.csproj.CoreCompileInputs.cache
 C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\obj\Debug\DiceTest.dll
 C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\obj\Debug\DiceTest.pdb
+C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\obj\Debug\DiceTest.csprojAssemblyReference.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\DiceTest\obj\Debug\DiceTest.csproj.CopyComplete

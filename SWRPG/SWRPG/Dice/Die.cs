@@ -13,6 +13,38 @@ namespace Dice
         {
             get
             {
+                if(_sides <= 0)
+                {
+                    switch (Type)
+                    {
+                        case DiceType.Ability:
+                            _sides = 8;
+                            break;
+                        case DiceType.Proficiency:
+                            _sides = 12;
+                            break;
+                        case DiceType.Boost:
+                            _sides = 6;
+                            break;
+                        case DiceType.Difficulty:
+                            _sides = 8;
+                            break;
+                        case DiceType.Challenge:
+                            _sides = 12;
+                            break;
+                        case DiceType.Setback:
+                            _sides = 6;
+                            break;
+                        case DiceType.Force:
+                            _sides = 12;
+                            break;
+                        case DiceType.TenSided:
+                            _sides = 10;
+                            break;
+                        default:
+                            break;
+                    }
+                }
                 return _sides;
             }
 
@@ -54,7 +86,7 @@ namespace Dice
         public Die(DiceType type)
         {
             this.Type = type;
-
+            
         }
 
         public int Roll()
