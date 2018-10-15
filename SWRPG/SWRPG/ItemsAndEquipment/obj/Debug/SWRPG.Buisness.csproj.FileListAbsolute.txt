@@ -1,0 +1,9 @@
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\bin\Debug\SWRPG.Buisness.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\bin\Debug\SWRPG.Buisness.pdb
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\bin\Debug\SWRPG.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\bin\Debug\SWRPG.pdb
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\SWRPG.Buisness.csprojAssemblyReference.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\SWRPG.Buisness.csproj.CoreCompileInputs.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\SWRPG.Buisness.csproj.CopyComplete
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\SWRPG.Buisness.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\ItemsAndEquipment\obj\Debug\SWRPG.Buisness.pdb

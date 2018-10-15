@@ -1,0 +1,16 @@
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\obj\Debug\SWRPGBusinessUnitTest.csprojAssemblyReference.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\obj\Debug\SWRPGBusinessUnitTest.csproj.CoreCompileInputs.cache
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\SWRPGBusinessUnitTest.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\SWRPGBusinessUnitTest.pdb
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\SWRPG.Buisness.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\SWRPG.Buisness.pdb
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\obj\Debug\SWRPGBusinessUnitTest.csproj.CopyComplete
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\obj\Debug\SWRPGBusinessUnitTest.dll
+C:\Workspaces\RPGTools\SWRPG\SWRPG\SWRPGBusinessUnitTest\obj\Debug\SWRPGBusinessUnitTest.pdb

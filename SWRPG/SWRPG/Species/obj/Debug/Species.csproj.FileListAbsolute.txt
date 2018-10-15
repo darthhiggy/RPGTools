@@ -1,8 +1,0 @@
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\obj\Debug\Species.csproj.CoreCompileInputs.cache
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\bin\Debug\Species.dll
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\bin\Debug\Species.pdb
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\bin\Debug\Character.dll
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\bin\Debug\Character.pdb
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\obj\Debug\Species.csprojResolveAssemblyReference.cache
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\obj\Debug\Species.dll
-C:\Workspaces\RPGTools\SWRPG\SWRPG\Species\obj\Debug\Species.pdb
